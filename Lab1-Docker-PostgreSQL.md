@@ -194,6 +194,7 @@ docker volume inspect postgres-data
 ```
 <img width="1105" height="87" alt="Screenshot 2568-09-09 at 10 38 58" src="https://github.com/user-attachments/assets/29db3392-09f7-4c17-bf17-2ed405c9ec2e" />
 <img width="1787" height="831" alt="Screenshot 2568-09-09 at 10 40 23" src="https://github.com/user-attachments/assets/b714f94f-c323-4124-916c-451a3aefb050" />
+<img width="821" height="71" alt="Screenshot 2568-09-09 at 10 43 40" src="https://github.com/user-attachments/assets/1d7141b3-17a7-4b17-a58e-4bf85277bee0" />
 
 ### Step 5: Connect to PostgreSQL และตรวจสอบ Configuration
 
