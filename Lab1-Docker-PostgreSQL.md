@@ -288,6 +288,9 @@ WHERE datname = 'lab_db';
 2. ผลการรัน \l+ แสดงฐานข้อมูลทั้งหมด
 3. ผลการ query ข้อมูลฐานข้อมูล
 ```
+<img width="618" height="242" alt="Screenshot 2568-09-09 at 10 58 58" src="https://github.com/user-attachments/assets/d5beeeda-30a8-4e89-9c53-da2948d57009" />
+<img width="879" height="180" alt="Screenshot 2568-09-09 at 11 00 04" src="https://github.com/user-attachments/assets/fa06f439-674f-475b-8032-73ffc2928a07" />
+<img width="608" height="237" alt="Screenshot 2568-09-09 at 11 02 33" src="https://github.com/user-attachments/assets/461d7793-1e0f-425d-98a2-50ea79378714" />
 
 ### Step 7: User และ Role Management
 
