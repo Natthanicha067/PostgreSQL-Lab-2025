@@ -240,6 +240,10 @@ WHERE name IN ('shared_buffers', 'work_mem', 'maintenance_work_mem', 'effective_
 2. ผลการรัน SHOW shared_buffers; SHOW work_mem; SHOW maintenance_work_mem;SHOW effective_cache_size;
 3. ผลการรัน \l และ \du
 ```
+<img width="1109" height="120" alt="Screenshot 2568-09-09 at 10 51 27" src="https://github.com/user-attachments/assets/f8e884fa-9bbc-4cf8-b0f5-94a465ea0d72" />
+<img width="581" height="337" alt="Screenshot 2568-09-09 at 10 51 44" src="https://github.com/user-attachments/assets/9b371840-69e4-4a9e-bb16-57bb6d2b0342" />
+<img width="866" height="302" alt="Screenshot 2568-09-09 at 10 53 01" src="https://github.com/user-attachments/assets/d8348a00-cc74-4ba7-81f0-e356435b5364" />
+
 
 ### Step 6: Database Management Operations
 
