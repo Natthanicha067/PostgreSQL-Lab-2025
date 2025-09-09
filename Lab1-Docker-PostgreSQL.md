@@ -691,6 +691,7 @@ docker volume inspect postgres-data
 ```
 ใส่ Screenshot ของ resource usage และ volume information ที่นี่
 ```
+<img width="1389" height="407" alt="Screenshot 2568-09-09 at 13 52 49" src="https://github.com/user-attachments/assets/cd2645f8-2613-46f8-aed2-1df2b32377ac" />
 
 ### Checkpoint 2: Database Performance และ Configuration
 ```sql
@@ -742,6 +743,7 @@ WHERE state = 'active';
 2. Memory configuration
 3. Active connections
 ```
+<img width="740" height="808" alt="Screenshot 2568-09-09 at 13 56 08" src="https://github.com/user-attachments/assets/52b49fa5-183b-41eb-8229-65e56b7fac0a" />
 
 ## การแก้ไขปัญหาเบื้องต้น
 
