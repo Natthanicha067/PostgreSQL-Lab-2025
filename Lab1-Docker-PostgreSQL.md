@@ -349,6 +349,8 @@ WHERE r.rolname NOT LIKE 'pg_%';
 2. ผลการรัน \du+
 3. ผลการ query pg_roles
 ```
+<img width="719" height="512" alt="Screenshot 2568-09-09 at 11 07 40" src="https://github.com/user-attachments/assets/e6545bd8-2bc8-4761-9cb6-d609ba3b6f07" />
+<img width="873" height="307" alt="Screenshot 2568-09-09 at 11 10 23" src="https://github.com/user-attachments/assets/d1352ca9-d5bb-49fa-9023-4682bf626fb8" />
 
 ### Step 8: การจัดการสิทธิ์ User
 
