@@ -413,7 +413,7 @@ GRANT SELECT ON postgres_test_table TO lab_user;
 2. ผลการรัน \dp test_permissions
 3. ผลการ GRANT commands
 ```
-<img width="327" height="62" alt="Screenshot 2568-09-09 at 11 21 21" src="https://github.com/user-attachments/assets/82cdbd58-8e0f-4bcc-ab36-96c216e55c4e" />
+<img width="887" height="65" alt="Screenshot 2568-09-09 at 11 25 16" src="https://github.com/user-attachments/assets/30a83453-f23d-4c9a-ba2a-8261e4eb2c14" />
 <img width="680" height="122" alt="Screenshot 2568-09-09 at 11 21 51" src="https://github.com/user-attachments/assets/e684090b-73ed-4aa9-9576-d5b7eafbb5a3" />
 <img width="632" height="285" alt="Screenshot 2568-09-09 at 11 23 51" src="https://github.com/user-attachments/assets/c0738b30-bc14-4157-bad5-38a04af95c45" />
 
@@ -421,10 +421,10 @@ GRANT SELECT ON postgres_test_table TO lab_user;
 **คำถาม
  ```
 Access Privileges   postgres=arwdDxtm/postgres มีความหมายอย่างไร
-
-
+<img width="783" height="58" alt="Screenshot 2568-09-09 at 11 27 55" src="https://github.com/user-attachments/assets/ab2dda40-7b73-4c79-8e95-663abf74776f" />
 
  ```
+
 ### Step 9: Schema Management และ Namespace
 
 ```sql
