@@ -983,6 +983,7 @@ INSERT INTO ecommerce.order_items (order_id, product_id, quantity, price) VALUES
 -- พื้นที่สำหรับคำตอบ - เขียน SQL commands ทั้งหมด
 
 ```
+<img width="1792" height="1120" alt="Screenshot 2568-09-16 at 09 05 10" src="https://github.com/user-attachments/assets/1e44d263-2019-4822-bfaf-358374542715" />
 
 **ผลการทำแบบฝึกหัด 3:**
 ```
@@ -992,6 +993,8 @@ INSERT INTO ecommerce.order_items (order_id, product_id, quantity, price) VALUES
 3. ผลการรัน queries ที่สร้าง
 4. การวิเคราะห์ข้อมูลที่ได้
 ```
+<img width="1792" height="1120" alt="Screenshot 2568-09-16 at 08 42 35" src="https://github.com/user-attachments/assets/9871e3c7-e09f-476c-9d76-3a8001286f1e" />
+<img width="1792" height="1120" alt="Screenshot 2568-09-16 at 08 43 45" src="https://github.com/user-attachments/assets/517926e1-2fd9-42e4-9e29-9f871324572a" />
 
 
 ## การทดสอบความเข้าใจ
