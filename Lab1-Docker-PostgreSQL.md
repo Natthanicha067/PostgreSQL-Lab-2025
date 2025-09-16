@@ -1008,7 +1008,15 @@ INSERT INTO ecommerce.order_items (order_id, product_id, quantity, price) VALUES
 ```
 เขียนคำตอบที่นี่
 ```
-
+1. ความแตกต่างระหว่าง Named Volume และ Bind Mount (PostgreSQL):
+Named Volume: Docker จัดการเอง เหมาะกับ production เสถียร ปลอดภัย
+Bind Mount: ผูกกับ path บน host เหมาะกับ dev แต่อ่อนไหวต่อ permission และ path
+2. shared_buffers ควรตั้ง 25% ของ RAM เพราะ:
+เพื่อให้ PostgreSQL มี cache เพียงพอ โดยไม่แย่ง RAM จาก OS มากเกินไป
+3. การใช้ Schema ช่วยจัดการฐานข้อมูลใหญ่โดย:
+แบ่งกลุ่มข้อมูล ลดความซับซ้อน จัดการสิทธิ์ง่าย และป้องกันชื่อซ้ำ
+4. ประโยชน์ของ Docker สำหรับ Database Development:
+สร้าง/รัน DB ได้เร็ว แยก environment ชัดเจน ใช้งานซ้ำได้ และเหมาะกับ automation
 
 ## สรุปและการประเมินผล
 
